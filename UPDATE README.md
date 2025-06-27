@@ -1,0 +1,75 @@
+# 🎓 Hospital Management
+
+A Hospital Management System (HMS) is a digital solution designed to manage all aspects of a hospital's operations efficiently. It integrates various departments, automates routine tasks, and ensures smooth coordination between medical and administrative staff.
+---
+
+## 🔑 Key Features
+
+### 🩺 1. Medical Financial Aid System
+**Pages involved:** `aid.html`, `grant.html`
+
+Allows patients to:
+- Check their eligibility for **financial aid**
+- Apply for assistance if eligible
+- Apply for a **medical loan** if not eligible
+
+---
+
+### 💳 2. Medical Loan Application & Confirmation
+**Pages involved:** `loan.html`, `loan-confirmation.html`, `emergency.html`
+
+Features include:
+- Structured loan application forms (Personal, Employment, Bank, Medical details)
+- Confirmation page after successful loan submission
+
+---
+
+### 📅 3. Appointment Booking System
+**Page involved:** `book.html`
+
+Helps patients:
+- Book appointments online at **HARRY MultiSpeciality Hospital**
+- Fill and submit a basic form for patient registration
+
+---
+
+### 💰 4. Donation & Payment Gateway
+**Pages involved:** `donations.html`, `paymentpage.html`
+
+Supports:
+- UPI-based payments and donations
+- Donor listings and offline payment options
+- Clear success messages after payment
+
+
+## 🛠️ Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript
+
+---
+
+## 🧪 How to Use
+
+1. Clone or download the repository
+2. Open `index.html` in any web browser
+3. Navigate using the navbar to explore the remaining pages which are invoved in this
+
+---
+
+## 📌 Notes
+
+- This is a frontend-only project
+- Can be extended with backend support (e.g., for authentication or sanction of loan amount)
+- Responsive design for desktop and mobile
+
+---
+
+## 👩‍💻 Author
+
+**Alex chokka**  
+Cybersecurity | IoT | Blockchain Student  
+SRKR Engineering College
+
+---
